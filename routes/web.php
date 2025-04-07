@@ -2,4 +2,4 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::view('home', 'pages.home');
+Route::view('/', 'pages.home');
